@@ -123,7 +123,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@weslley.spereira/remove-unused-files-from-your-latex-project-f07558f9ff3f
+    rss_url: https://medium.com/@weslley.spereira/feed
   # - name: Google Blog
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
