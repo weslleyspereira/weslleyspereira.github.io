@@ -6,8 +6,8 @@ title: Weslley S. Pereira # the website title (if blank, full name will be used 
 first_name: Weslley
 middle_name:
 last_name: da Silva Pereira
-contact_note: >
-  You can reach me by weslley.spereira@gmail.com
+# contact_note: >
+#   You can reach me by
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Github page to host my portfolio. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -144,13 +144,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -191,6 +191,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/cv.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _pages/dropdown.md
+
 keep_files:
   - CNAME
   - .nojekyll

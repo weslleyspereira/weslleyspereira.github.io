@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Weslley da Silva Pereira",
+    "label": "Research Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://weslleyspereira.github.io/",
+    "summary": "Research Software Engineer with a strong foundation in applied mathematics and software development, including expertise in numerical methods and HPC computing. I am passionate about creating innovative solutions and have a proven track record of crafting robust, efficient code that makes a significant impact",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
