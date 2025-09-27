@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Weslley S. Pereira # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Weslley
 middle_name:
 last_name: da Silva Pereira
@@ -195,7 +195,7 @@ exclude:
   - _pages/projects.md
   - _pages/cv.md
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _pages/dropdown.md
 
 keep_files:
