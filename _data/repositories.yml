@@ -5,5 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - tlapack/tlapack
-  - NREL/WattAMeter
   - NREL/soogo
+  - NREL/WattAMeter
+  - equipe-customizacao-tese-lncc/tese_lncc
+  - Reference-LAPACK/lapack
