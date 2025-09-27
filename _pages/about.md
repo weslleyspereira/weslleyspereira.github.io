@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "The greatest adventure is what lies ahead" — J.R.R. Tolkien
+subtitle: '"The greatest adventure is what lies ahead" — J.R.R. Tolkien'
 
 profile:
   align: right
