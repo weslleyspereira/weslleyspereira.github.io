@@ -1,27 +1,39 @@
 "Correctness":
   url: https://ieeexplore.ieee.org/xpl/conhome/10027508/proceeding
-  # color: "#00369f"
+  color: "#28A745"
 
 "TransPorousMedia":
   url: https://link.springer.com/journal/11242
+  color: "#8B4513"
 
 "CompApplMath":
   url: https://link.springer.com/journal/40314
+  color: "#1E3A8A"
 
 "SPE":
   url: https://onepetro.org/sj
+  color: "#DAA520"
 
 "Geofluids":
   url: https://onlinelibrary.wiley.com/journal/6816
+  color: "#008B8B"
 
 "CompGeo":
   url: https://link.springer.com/journal/10596
+  color: "#228B22"
 
 "JOTA":
   url: https://link.springer.com/journal/10957
+  color: "#663399"
 
 "IMAJNA":
   url: https://academic.oup.com/imajna
+  color: "#800000"
 
 "M2AN":
   url: https://www.esaim-m2an.org
+  color: "#FF4500"
+
+"doeEEComp":
+  url: https://web.cvent.com/event/a3dd901a-699e-408c-8a84-81445e6ea64f/summary
+  color: "#0066CC"
