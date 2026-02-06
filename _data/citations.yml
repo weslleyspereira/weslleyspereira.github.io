@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-02-06'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Numerical analysis of Givens rotation
     year: '2022'
   lR1N3SMAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: Multiscale hybrid-mixed methods for heterogeneous elastic models
     year: '2019'
   lR1N3SMAAAAJ:LkGwnXOMwfcC:
-    citations: 13
+    citations: 14
     title: The MHM method for linear elasticity on polytopal meshes
     year: '2023'
   lR1N3SMAAAAJ:Se3iqnhoufwC:
@@ -42,7 +42,7 @@ papers:
     title: "AN H (div, \u2126)-CONFORMING FLUX RECONSTRUCTION FOR THE MULTISCALE HYBRID-MIXED METHOD"
     year: '2024'
   lR1N3SMAAAAJ:UeHWp8X0CEIC:
-    citations: 8
+    citations: 9
     title: A locking-free MHM method for elasticity
     year: '2017'
   lR1N3SMAAAAJ:W7OEmFMy1HYC:
@@ -82,7 +82,7 @@ papers:
     title: "A Petrov\u2013Galerkin multiscale hybrid-mixed method for the Darcy equation on polytopes"
     year: '2023'
   lR1N3SMAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 3
     title: A low-order locking-free multiscale finite element method for isotropic elasticity
     year: '2024'
   lR1N3SMAAAAJ:qjMakFHDy7sC:
