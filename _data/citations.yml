@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-25'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: Multiscale hybrid-mixed methods for heterogeneous elastic models
     year: '2019'
   lR1N3SMAAAAJ:LkGwnXOMwfcC:
-    citations: 15
+    citations: 16
     title: The MHM method for linear elasticity on polytopal meshes
     year: '2023'
   lR1N3SMAAAAJ:Se3iqnhoufwC:
@@ -78,7 +78,7 @@ papers:
     title: New H (div)-conforming multiscale hybrid-mixed methods for the elasticity problem on polygonal meshes
     year: '2021'
   lR1N3SMAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 2
     title: "A Petrov\u2013Galerkin multiscale hybrid-mixed method for the Darcy equation on polytopes"
     year: '2023'
   lR1N3SMAAAAJ:kNdYIx-mwKoC:
