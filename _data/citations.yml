@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-06'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -29,6 +29,10 @@ papers:
     citations: 15
     title: The MHM method for linear elasticity on polytopal meshes
     year: '2023'
+  lR1N3SMAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: An -Conforming Flux Reconstruction for the Multiscale Hybrid-Mixed Method
+    year: '2026'
   lR1N3SMAAAAJ:Se3iqnhoufwC:
     citations: 5
     title: Traveling wave solutions for non-Newtonian foam flow in porous media
@@ -78,7 +82,7 @@ papers:
     title: New H (div)-conforming multiscale hybrid-mixed methods for the elasticity problem on polygonal meshes
     year: '2021'
   lR1N3SMAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 0
     title: "A Petrov\u2013Galerkin multiscale hybrid-mixed method for the Darcy equation on polytopes"
     year: '2023'
   lR1N3SMAAAAJ:kNdYIx-mwKoC:
