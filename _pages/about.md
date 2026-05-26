@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I've identified as a Research Software Engineer since late 2023, when I first learned about the growing efforts to define and promote this role. My career has been centered on developing, creating, and analyzing algorithms, and implementing them with a focus on usability, robustness, and high performance.
+I've been working as a Research Software Engineer since late 2023. I first discovered the role through the growing global efforts to define and promote this career. My professional journey has been centered on developing, creating, and analyzing algorithms, and implementing them with a focus on usability, robustness, and high performance.
 
-Over time, I've increasingly dedicated myself to sharing knowledge with teammates and mentees—a rewarding experience that has strengthened both my skills and theirs.
+Over time, I've increasingly dedicated myself to sharing knowledge with teammates and mentees — a rewarding experience that has driven both personal and team growth.
 
 My achievements span from publishing scientific papers that continue to earn citations, to developing software that enables and accelerates new research. I'm motivated by the challenge of bridging research and engineering to create tools that make a lasting impact.
