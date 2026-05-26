@@ -448,7 +448,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%77%64%61%73%69%6C%76@%6E%72%65%6C.%67%6F%76", "_blank");
+          window.open("mailto:%77%65%73%6C%6C%65%79%70@%6C%6E%63%63.%62%72", "_blank");
         },
       },{
         id: 'social-github',
@@ -505,13 +505,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://stackoverflow.com/users/5253097", "_blank");
-        },
-      },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://research-hub.nrel.gov/en/persons/weslley-da-silva-pereira", "_blank");
         },
       },{
       id: 'light-theme',
