@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mostly at home, otherwise</p>
-    <p>15013 Denver West Parkway</p>
-    <p>Golden, CO 80401, US</p>
+    <p>Av Getúlio Vargas, 333</p>
+    <p>Quitandinha, Petrópolis</p>
+    <p>RJ, 25651-075, Brasil</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
