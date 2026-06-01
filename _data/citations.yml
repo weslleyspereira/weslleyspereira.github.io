@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-01'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Multiscale hybrid-mixed methods for heterogeneous elastic models
     year: '2019'
   lR1N3SMAAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 17
     title: The MHM method for linear elasticity on polytopal meshes
     year: '2023'
   lR1N3SMAAAAJ:M3ejUd6NZC8C:
