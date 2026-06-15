@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -70,8 +70,8 @@ papers:
     title: The MHM method for the second-order elastodynamic model
     year: '2018'
   lR1N3SMAAAAJ:Wp0gIr-vW9MC:
-    citations: 0
-    title: Accelerating Floating-Point Computations with Intel AMX
+    citations: 1
+    title: Accelerating floating-point computations with Intel AMX
     year: '2025'
   lR1N3SMAAAAJ:Y0pCki6q_DkC:
     citations: 0
