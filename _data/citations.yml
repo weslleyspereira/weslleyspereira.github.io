@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-17'
 papers:
   lR1N3SMAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: soogo (Surrogate-based 0-th Order Global Optimization)[SWR-24-57]
     year: '2024'
   lR1N3SMAAAAJ:5nxA0vEk-isC:
-    citations: 18
+    citations: 17
     title: Proposed consistent exception handling for the BLAS and LAPACK
     year: '2022'
   lR1N3SMAAAAJ:9ZlFYXVOiuMC:
@@ -34,20 +34,16 @@ papers:
     title: Multiscale hybrid-mixed methods for heterogeneous elastic models
     year: '2019'
   lR1N3SMAAAAJ:LkGwnXOMwfcC:
-    citations: 17
+    citations: 16
     title: The MHM method for linear elasticity on polytopal meshes
     year: '2023'
-  lR1N3SMAAAAJ:M3ejUd6NZC8C:
-    citations: 0
-    title: An -Conforming Flux Reconstruction for the Multiscale Hybrid-Mixed Method
-    year: '2026'
   lR1N3SMAAAAJ:QIV2ME_5wuYC:
-    citations: 1
+    citations: 2
     title: Dataset of Generative AI Workload Power Profiles
     year: '2026'
   lR1N3SMAAAAJ:Se3iqnhoufwC:
     citations: 7
-    title: Traveling wave solutions for non-Newtonian foam flow in porous media
+    title: 'Traveling Wave Solutions for Non-Newtonian Foam Flow in Porous Media: W. da Silva Pereira, G. Chapiro'
     year: '2023'
   lR1N3SMAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
@@ -55,7 +51,7 @@ papers:
     year: '2017'
   lR1N3SMAAAAJ:ULOm3_A8WrAC:
     citations: 1
-    title: "An H (div; \u2126)-conforming flux reconstruction for the multiscale hybrid-mixed method"
+    title: An -Conforming Flux Reconstruction for the Multiscale Hybrid-Mixed Method
     year: '2026'
   lR1N3SMAAAAJ:UeHWp8X0CEIC:
     citations: 9
@@ -90,7 +86,7 @@ papers:
     title: The MHM Method for Elasticity on Polytopal Meshes
     year: '2020'
   lR1N3SMAAAAJ:aqlVkmm33-oC:
-    citations: 1
+    citations: 2
     title: 'Low precision and efficient programming languages for sustainable ai: Final report for the summer project of 2024'
     year: '2024'
   lR1N3SMAAAAJ:d1gkVwhDpl0C:
@@ -103,11 +99,11 @@ papers:
     year: '2023'
   lR1N3SMAAAAJ:eQOLeE2rZwMC:
     citations: 16
-    title: New H (div)-conforming multiscale hybrid-mixed methods for the elasticity problem on polygonal meshes
+    title: New H(div)-conforming multiscale hybrid-mixed methods for the elasticity problem on polygonal meshes
     year: '2021'
   lR1N3SMAAAAJ:hqOjcs7Dif8C:
     citations: 1
-    title: "A Petrov\u2013Galerkin multiscale hybrid-mixed method for the Darcy equation on polytopes"
+    title: "A Petrov\u2013Galerkin multiscale hybrid-mixed method for the Darcy equation on polytopes: H. Fernando et al."
     year: '2023'
   lR1N3SMAAAAJ:kNdYIx-mwKoC:
     citations: 3
@@ -118,11 +114,11 @@ papers:
     title: Low precision for lower energy consumption
     year: '2024'
   lR1N3SMAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 5
     title: On the implementation of a scalable simulator for multiscale hybrid-mixed methods
     year: '2017'
   lR1N3SMAAAAJ:qxL8FJ1GzNcC:
-    citations: 2
+    citations: 4
     title: Parallel derivative-free optimization for simulation-based design of behind-the-meter energy systems
     year: '2025'
   lR1N3SMAAAAJ:roLk4NBRz8UC:
